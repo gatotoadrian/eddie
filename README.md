@@ -10,6 +10,7 @@ The following languages and technologies have been used on this project:
 - HTML & CSS
 
 - JavaScript
+
 - Python
 - Django
 - PostgreSQL
