@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'members.apps.MembersConfig',
     'home.apps.HomeConfig',
     'rest_framework'
+    
 ]
 
 MIDDLEWARE = [
