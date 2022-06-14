@@ -51,7 +51,7 @@ To create/ edit/ delete images, go to the admin page(localhost:8000/admin).):
 
 MIT License
 
-Copyright (c) [2022] [David Kiama]
+Copyright (c) [2022] [gatotoadrian]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
