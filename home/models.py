@@ -36,6 +36,7 @@ class Project(models.Model):
     category = models.CharField(max_length=100)
     rating = models.DecimalField(default=0, decimal_places=1, max_digits=3)
 
+
     def save_project(self):
         self.save()
 
