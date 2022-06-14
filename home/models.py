@@ -15,6 +15,7 @@ class Profile(models.Model):
 
 
     bio = models.TextField(blank=True)
+    
 
     def save_user(self):
         self.save()
