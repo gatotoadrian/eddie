@@ -28,6 +28,7 @@ The following languages and technologies have been used on this project:
 
 Download and install any stable version of Python.[Python 3.7.3](https://www.python.org/downloads/)
 
+
 Donwload pip and install it. [pip](https://pip.pypa.io/en/stable/)
 
 Download and install PostgreSQL. [PostgreSQL 9.6.1](https://www.postgresql.org/download/)
