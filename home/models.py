@@ -13,12 +13,14 @@ class Profile(models.Model):
     profile_pic = models.ImageField(
         upload_to='profile_pics', default='profile_pics/default.svg')
 
+
     bio = models.TextField(blank=True)
 
     def save_user(self):
         self.save()
 
     def __str__(self):
+        
         return self.user.username
 
 
