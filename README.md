@@ -1,5 +1,6 @@
 # Awwwards clone
 
+
 A web application that allows users to upload projects and rate them.
 
 ## Technologies Used
