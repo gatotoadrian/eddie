@@ -12,6 +12,7 @@ The following languages and technologies have been used on this project:
 - JavaScript
 
 - Python
+
 - Django
 - PostgreSQL
 - Heroku
