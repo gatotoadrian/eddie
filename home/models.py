@@ -45,6 +45,7 @@ class Project(models.Model):
         
 
     @classmethod
+    
     def get_projects(cls):
         projects = cls.objects.all()
         return projects
