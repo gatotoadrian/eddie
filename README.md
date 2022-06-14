@@ -16,6 +16,7 @@ The following languages and technologies have been used on this project:
 - Django
 
 - PostgreSQL
+
 - Heroku
 
 ## Live Demo
